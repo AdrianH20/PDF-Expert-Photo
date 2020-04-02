@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Adrian\\Desktop\\final app\\JPEGtoPhotoAlbumN\\PDFExpertPhoto.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Adrian\\Desktop\\final app\\JPEGtoPhotoAlbumN\\PDFExpertPhoto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Adrian\\Desktop\\final app\\JPEGtoPhotoAlbumN\\PDFExpertPhoto.csproj",
+        "projectName": "PDFExpertPhoto",
+        "projectPath": "C:\\Users\\Adrian\\Desktop\\final app\\JPEGtoPhotoAlbumN\\PDFExpertPhoto.csproj",
+        "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adrian\\Desktop\\final app\\JPEGtoPhotoAlbumN\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "MetadataExtractor": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "iTextSharp": {
+              "target": "Package",
+              "version": "[5.5.13.1, )"
+            },
+            "itext7": {
+              "target": "Package",
+              "version": "[7.1.10, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

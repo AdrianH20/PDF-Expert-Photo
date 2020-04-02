@@ -1,0 +1,195 @@
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\bin\Debug\JPEGtoPDF.exe.config
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\bin\Debug\JPEGtoPDF.exe
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\bin\Debug\JPEGtoPDF.pdb
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\obj\Debug\JPEGtoPDF.csprojAssemblyReference.cache
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\obj\Debug\JPEGtoPDF.FormImageToPDF.resources
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\obj\Debug\JPEGtoPDF.Properties.Resources.resources
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\obj\Debug\JPEGtoPDF.csproj.GenerateResource.cache
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\obj\Debug\JPEGtoPDF.csproj.CoreCompileInputs.cache
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\obj\Debug\JPEGtoPDF.exe
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\obj\Debug\JPEGtoPDF.pdb
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\JPEGtoPDF.exe.config
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\JPEGtoPDF.exe
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\JPEGtoPDF.pdb
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\obj\Debug\JPEGtoPDF.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\obj\Debug\JPEGtoPDF.FormImageToPDF.resources
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\obj\Debug\JPEGtoPDF.Properties.Resources.resources
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\obj\Debug\JPEGtoPDF.csproj.GenerateResource.cache
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\obj\Debug\JPEGtoPDF.exe
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\obj\Debug\JPEGtoPDF.pdb
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\bin\Debug\Common.Logging.Core.dll
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\bin\Debug\Common.Logging.dll
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.barcodes.dll
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.forms.dll
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.io.dll
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.kernel.dll
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.layout.dll
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.pdfa.dll
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.sign.dll
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.styledxmlparser.dll
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.svg.dll
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\bin\Debug\Common.Logging.pdb
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\bin\Debug\Common.Logging.xml
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\bin\Debug\Common.Logging.Core.pdb
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\bin\Debug\Common.Logging.Core.xml
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.barcodes.xml
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.forms.xml
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.io.xml
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.kernel.xml
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.layout.xml
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.pdfa.xml
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.sign.xml
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.styledxmlparser.xml
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.svg.xml
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\obj\Debug\JPEGtoPDF.csproj.CopyComplete
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itextsharp.dll
+C:\Users\balta\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itextsharp.xml
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\Common.Logging.Core.dll
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\Common.Logging.dll
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.barcodes.dll
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.forms.dll
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.io.dll
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.kernel.dll
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.layout.dll
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.pdfa.dll
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.sign.dll
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.svg.dll
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itextsharp.dll
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\Common.Logging.pdb
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\Common.Logging.xml
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\Common.Logging.Core.xml
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.barcodes.xml
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.forms.xml
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.io.xml
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.kernel.xml
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.layout.xml
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.pdfa.xml
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.sign.xml
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itext.svg.xml
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\itextsharp.xml
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\obj\Debug\JPEGtoPDF.csproj.CopyComplete
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\obj\Debug\JPEGtoPDF.formatInformation.resources
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\nunit.framework.dll
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\nunit.framework.pdb
+C:\Users\Adrian\Desktop\proiect serban\JPEGtoPDF\bin\Debug\nunit.framework.xml
+C:\Users\Adrian\Desktop\JPEGtoPDF\obj\Debug\JPEGtoPDF.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\JPEGtoPDF\obj\Debug\JPEGtoPDF.FormImageToPDF.resources
+C:\Users\Adrian\Desktop\JPEGtoPDF\obj\Debug\JPEGtoPDF.formatInformation.resources
+C:\Users\Adrian\Desktop\JPEGtoPDF\obj\Debug\JPEGtoPDF.Properties.Resources.resources
+C:\Users\Adrian\Desktop\JPEGtoPDF\obj\Debug\JPEGtoPDF.csproj.GenerateResource.cache
+C:\Users\Adrian\Desktop\JPEGtoPDF\obj\Debug\JPEGtoPDF.exe
+C:\Users\Adrian\Desktop\JPEGtoPDF\obj\Debug\JPEGtoPDF.pdb
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\JPEGtoPDF.exe.config
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\JPEGtoPDF.exe
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\JPEGtoPDF.pdb
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\Common.Logging.Core.dll
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\Common.Logging.dll
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\itext.barcodes.dll
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\itext.forms.dll
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\itext.io.dll
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\itext.kernel.dll
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\itext.layout.dll
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\itext.pdfa.dll
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\itext.sign.dll
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\itext.svg.dll
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\itextsharp.dll
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\nunit.framework.dll
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\Common.Logging.pdb
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\Common.Logging.xml
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\Common.Logging.Core.xml
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\itext.barcodes.xml
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\itext.forms.xml
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\itext.io.xml
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\itext.kernel.xml
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\itext.layout.xml
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\itext.pdfa.xml
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\itext.sign.xml
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\itext.svg.xml
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\itextsharp.xml
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\nunit.framework.pdb
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\nunit.framework.xml
+C:\Users\Adrian\Desktop\JPEGtoPDF\obj\Debug\JPEGtoPDF.csproj.CopyComplete
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\JPEGtoPDF.exe.manifest
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\JPEGtoPDF.application
+C:\Users\Adrian\Desktop\JPEGtoPDF\obj\Debug\JPEGtoPDF.exe.manifest
+C:\Users\Adrian\Desktop\JPEGtoPDF\obj\Debug\JPEGtoPDF.application
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\MetadataExtractor.dll
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\NPOI.dll
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\NPOI.OOXML.dll
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\XmpCore.dll
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\MetadataExtractor.xml
+C:\Users\Adrian\Desktop\JPEGtoPDF\bin\Debug\XmpCore.xml
+C:\Users\Adrian\Desktop\JPEGtoPDF\obj\Debug\JPEGtoPDF.TrustInfo.xml
+C:\Users\Adrian\Desktop\glowing-invention\obj\Debug\JPEGtoPDF.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\glowing-invention\obj\Debug\JPEGtoPDF.FormImageToPDF.resources
+C:\Users\Adrian\Desktop\glowing-invention\obj\Debug\JPEGtoPDF.formatInformation.resources
+C:\Users\Adrian\Desktop\glowing-invention\obj\Debug\JPEGtoPDF.Properties.Resources.resources
+C:\Users\Adrian\Desktop\glowing-invention\obj\Debug\JPEGtoPDF.csproj.GenerateResource.cache
+C:\Users\Adrian\Desktop\glowing-invention\obj\Debug\JPEGtoPDF.exe
+C:\Users\Adrian\Desktop\glowing-invention\obj\Debug\JPEGtoPDF.pdb
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\JPEGtoPDF.exe.config
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\JPEGtoPDF.exe.manifest
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\JPEGtoPDF.application
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\JPEGtoPDF.exe
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\JPEGtoPDF.pdb
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\Common.Logging.Core.dll
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\Common.Logging.dll
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\itext.barcodes.dll
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\itext.forms.dll
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\itext.io.dll
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\itext.kernel.dll
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\itext.layout.dll
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\itext.pdfa.dll
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\itext.sign.dll
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\itext.svg.dll
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\itextsharp.dll
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\MetadataExtractor.dll
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\NPOI.dll
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\NPOI.OOXML.dll
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\nunit.framework.dll
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\XmpCore.dll
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\Common.Logging.pdb
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\Common.Logging.xml
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\Common.Logging.Core.xml
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\itext.barcodes.xml
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\itext.forms.xml
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\itext.io.xml
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\itext.kernel.xml
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\itext.layout.xml
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\itext.pdfa.xml
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\itext.sign.xml
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\itext.svg.xml
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\itextsharp.xml
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\MetadataExtractor.xml
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\nunit.framework.pdb
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\nunit.framework.xml
+C:\Users\Adrian\Desktop\glowing-invention\bin\Debug\XmpCore.xml
+C:\Users\Adrian\Desktop\glowing-invention\obj\Debug\JPEGtoPDF.TrustInfo.xml
+C:\Users\Adrian\Desktop\glowing-invention\obj\Debug\JPEGtoPDF.exe.manifest
+C:\Users\Adrian\Desktop\glowing-invention\obj\Debug\JPEGtoPDF.application
+C:\Users\Adrian\Desktop\glowing-invention\obj\Debug\JPEGtoPDF.csproj.CopyComplete
